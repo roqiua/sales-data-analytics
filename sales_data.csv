@@ -1,0 +1,51 @@
+Order_ID,Date,City,Sales_Rep,Product_Category,Product_Name,Season,Units_Sold,Unit_Price_USD,Discount_Percent,Revenue_USD,Customer_Rating,Delivery_Days,Payment_Method,Returned
+1001,2025-01-05,Riyadh,Ahmed Alharbi,Computer,Laptop Pro 15,Winter,12.0,1500,5.0,17100.0,4.5,3.0,Credit Card,No
+1002,2025-01-12,Jeddah,Sara Alqahtani,Audio,NoiseCancel X,Winter,25.0,250,10.0,5625.0,4.2,5.0,Cash,No
+1003,2025-02-01,Dammam,Khalid Alshehri,Accessories,Smart Mouse,Winter,40.0,45,0.0,1800.0,4.0,4.0,Mada,No
+1004,2025-02-14,Mecca,Reem Alotaibi,Computer,Gaming PC Ultra,Winter,5.0,3200,15.0,13600.0,4.8,7.0,Credit Card,No
+1005,2025-03-03,Medina,Abdullah Almutairi,Audio,Bluetooth Speaker,Spring,60.0,120,5.0,6840.0,3.9,6.0,Cash,No
+1006,2025-03-15,Abha,Laila Alzahrani,Computer,Desktop Basic,Spring,18.0,900,8.0,14832.0,4.1,5.0,Mada,No
+1007,2025-03-20,Tabuk,Omar Alghamdi,Accessories,USB-C Hub,Spring,75.0,35,0.0,2625.0,4.3,4.0,Credit Card,No
+1008,2025-04-01,Khobar,Noura Alshammari,Audio,Studio Headphones,Spring,22.0,310,12.0,5994.0,4.6,5.0,Credit Card,No
+1009,2025-04-11,Jubail,Ahmed Alharbi,Computer,Laptop Air 13,Spring,30.0,1100,7.0,30690.0,4.4,3.0,Cash,No
+1010,2025-04-25,Hail,Sara Alqahtani,Accessories,Mechanical Keyboard,Spring,45.0,150,5.0,6412.5,4.5,6.0,Mada,No
+1011,2025-05-05,Riyadh,Khalid Alshehri,Computer,Workstation Pro,Summer,3.0,4500,20.0,10800.0,4.9,8.0,Credit Card,No
+1012,2025-05-14,Jeddah,Reem Alotaibi,Audio,Earbuds Lite,Summer,120.0,85,10.0,9180.0,3.8,3.0,Cash,Yes
+1013,2025-05-20,Dammam,Abdullah Almutairi,Accessories,Laptop Stand,Summer,55.0,60,0.0,3300.0,4.1,4.0,Mada,No
+1014,2025-06-01,Mecca,Laila Alzahrani,Computer,Laptop Pro 15,Summer,14.0,1500,5.0,19950.0,4.7,5.0,Credit Card,No
+1015,2025-06-10,Medina,Omar Alghamdi,Audio,NoiseCancel X,Summer,28.0,250,10.0,6300.0,4.2,6.0,Cash,No
+1016,2025-06-18,Abha,Noura Alshammari,Accessories,Smart Mouse,Summer,65.0,45,0.0,2925.0,4.0,5.0,Mada,No
+1017,2025-07-02,Tabuk,Ahmed Alharbi,Computer,Gaming PC Ultra,Summer,2.0,3200,15.0,5440.0,4.9,9.0,Credit Card,No
+1018,2025-07-11,Khobar,Sara Alqahtani,Audio,Bluetooth Speaker,Summer,90.0,120,5.0,10260.0,3.7,4.0,Cash,Yes
+1019,2025-07-20,Jubail,Khalid Alshehri,Accessories,USB-C Hub,Summer,150.0,35,0.0,5250.0,4.3,3.0,Mada,No
+1020,2025-07-28,Hail,Reem Alotaibi,Computer,Desktop Basic,Summer,20.0,900,8.0,16560.0,4.2,6.0,Credit Card,No
+1021,2025-08-03,Riyadh,Abdullah Almutairi,Audio,Studio Headphones,Autumn,15.0,310,12.0,4092.0,4.5,5.0,Cash,No
+1022,2025-08-10,Jeddah,Laila Alzahrani,Accessories,Mechanical Keyboard,Autumn,35.0,150,5.0,4987.5,4.6,4.0,Mada,No
+1023,2025-08-18,Dammam,Omar Alghamdi,Computer,Laptop Air 13,Autumn,27.0,1100,7.0,27621.0,4.3,3.0,Credit Card,No
+1024,2025-08-25,Mecca,Noura Alshammari,Audio,Earbuds Lite,Autumn,140.0,85,10.0,10710.0,3.5,4.0,Cash,Yes
+1025,2025-09-02,Medina,Ahmed Alharbi,Accessories,Laptop Stand,Autumn,48.0,60,0.0,2880.0,4.0,5.0,Mada,No
+1026,2025-09-10,Abha,Sara Alqahtani,Computer,Workstation Pro,Autumn,1.0,4500,20.0,3600.0,4.8,10.0,Credit Card,No
+1027,2025-09-18,Tabuk,Khalid Alshehri,Audio,NoiseCancel X,Autumn,32.0,250,10.0,7200.0,4.1,6.0,Cash,No
+1028,2025-09-27,Khobar,Reem Alotaibi,Accessories,Smart Mouse,Autumn,80.0,45,0.0,3600.0,4.2,3.0,Mada,No
+1029,2025-10-05,Jubail,Abdullah Almutairi,Computer,Gaming PC Ultra,Autumn,4.0,3200,15.0,10880.0,4.9,8.0,Credit Card,No
+1030,2025-10-12,Hail,Laila Alzahrani,Audio,Bluetooth Speaker,Autumn,70.0,120,5.0,7980.0,3.6,4.0,Cash,Yes
+1031,2025-10-20,Riyadh,Omar Alghamdi,Accessories,USB-C Hub,Autumn,95.0,35,0.0,3325.0,4.4,3.0,Mada,No
+1032,2025-10-28,Jeddah,Noura Alshammari,Computer,Desktop Basic,Autumn,22.0,900,8.0,18216.0,4.3,5.0,Credit Card,No
+1033,2025-11-03,Dammam,Ahmed Alharbi,Audio,Studio Headphones,Winter,18.0,310,12.0,4910.4,4.6,6.0,Cash,No
+1034,2025-11-10,Mecca,Sara Alqahtani,Accessories,Mechanical Keyboard,Winter,38.0,150,5.0,5415.0,4.5,4.0,Mada,No
+1035,2025-11-18,Medina,Khalid Alshehri,Computer,Laptop Pro 15,Winter,16.0,1500,5.0,22800.0,4.7,3.0,Credit Card,No
+1036,2025-11-25,Abha,Reem Alotaibi,Audio,Earbuds Lite,Winter,200.0,85,10.0,15300.0,3.4,2.0,Cash,Yes
+1037,2025-12-02,Tabuk,Abdullah Almutairi,Accessories,Laptop Stand,Winter,50.0,60,0.0,3000.0,4.2,4.0,Mada,No
+1038,2025-12-09,Khobar,Laila Alzahrani,Computer,Workstation Pro,Winter,0.0,4500,20.0,0.0,,12.0,Credit Card,No
+1039,2025-12-15,Jubail,Omar Alghamdi,Audio,NoiseCancel X,Winter,30.0,250,10.0,6750.0,4.1,5.0,Cash,No
+1040,2025-12-20,Hail,Noura Alshammari,Accessories,Smart Mouse,Winter,85.0,45,0.0,3825.0,4.3,4.0,Mada,No
+1041,2025-12-22,Riyadh,Ahmed Alharbi,Computer,Laptop Air 13,Winter,100.0,1100,50.0,55000.0,4.9,2.0,Credit Card,No
+1042,2025-12-23,Jeddah,Sara Alqahtani,Audio,Bluetooth Speaker,Winter,300.0,120,0.0,36000.0,2.5,1.0,Cash,Yes
+1043,2025-12-24,Dammam,Khalid Alshehri,Accessories,USB-C Hub,Winter,500.0,35,0.0,17500.0,4.8,1.0,Mada,No
+1044,2025-12-25,Mecca,Reem Alotaibi,Computer,Gaming PC Ultra,Winter,10.0,3200,0.0,32000.0,5.0,2.0,Credit Card,No
+1045,2025-12-26,Medina,Abdullah Almutairi,Audio,Studio Headphones,Winter,5.0,310,0.0,1550.0,1.8,15.0,Cash,Yes
+1046,2025-12-27,Abha,Laila Alzahrani,Accessories,Mechanical Keyboard,Winter,,150,5.0,,4.4,5.0,Mada,No
+1047,2025-12-28,Tabuk,Omar Alghamdi,Computer,Desktop Basic,Winter,25.0,900,,22500.0,4.3,6.0,Credit Card,No
+1048,2025-12-29,Khobar,Noura Alshammari,Audio,Earbuds Lite,Winter,180.0,85,10.0,13770.0,,3.0,Cash,Yes
+1049,2025-12-30,Jubail,Ahmed Alharbi,Accessories,Laptop Stand,Winter,60.0,60,0.0,3600.0,4.1,,Mada,No
+1050,2025-12-31,Hail,Sara Alqahtani,Computer,Laptop Pro 15,Winter,8.0,1500,5.0,11400.0,4.6,4.0,Credit Card,No
